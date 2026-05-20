@@ -92,7 +92,7 @@ A powerful multi-agent research system built with LangChain that autonomously re
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/LangChain-Multi-Agent-Research-System.git
+git clone https://github.com/maddy-abhishek/Multi-Agent-research-system--by-langchain.git
 cd LangChain-Multi-Agent-Research-System
 ```
 
